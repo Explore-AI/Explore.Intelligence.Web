@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Archivo';
+    src: url('../fonts/Archivo-MediumItalic.eot');
+    src: url('../fonts/Archivo-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Archivo-MediumItalic.woff2') format('woff2'),
+        url('../fonts/Archivo-MediumItalic.woff') format('woff'),
+        url('../fonts/Archivo-MediumItalic.ttf') format('truetype'),
+        url('../fonts/Archivo-MediumItalic.svg#Archivo-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo';
+    src: url('../fonts/Archivo-SemiBoldItalic.eot');
+    src: url('../fonts/Archivo-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Archivo-SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/Archivo-SemiBoldItalic.woff') format('woff'),
+        url('../fonts/Archivo-SemiBoldItalic.ttf') format('truetype'),
+        url('../fonts/Archivo-SemiBoldItalic.svg#Archivo-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo';
+    src: url('../fonts/Archivo-SemiBold.eot');
+    src: url('../fonts/Archivo-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Archivo-SemiBold.woff2') format('woff2'),
+        url('../fonts/Archivo-SemiBold.woff') format('woff'),
+        url('../fonts/Archivo-SemiBold.ttf') format('truetype'),
+        url('../fonts/Archivo-SemiBold.svg#Archivo-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo';
+    src: url('../fonts/Archivo-Regular.eot');
+    src: url('../fonts/Archivo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Archivo-Regular.woff2') format('woff2'),
+        url('../fonts/Archivo-Regular.woff') format('woff'),
+        url('../fonts/Archivo-Regular.ttf') format('truetype'),
+        url('../fonts/Archivo-Regular.svg#Archivo-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo';
+    src: url('../fonts/Archivo-BoldItalic.eot');
+    src: url('../fonts/Archivo-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Archivo-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Archivo-BoldItalic.woff') format('woff'),
+        url('../fonts/Archivo-BoldItalic.ttf') format('truetype'),
+        url('../fonts/Archivo-BoldItalic.svg#Archivo-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo';
+    src: url('../fonts/Archivo-Bold.eot');
+    src: url('../fonts/Archivo-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Archivo-Bold.woff2') format('woff2'),
+        url('../fonts/Archivo-Bold.woff') format('woff'),
+        url('../fonts/Archivo-Bold.ttf') format('truetype'),
+        url('../fonts/Archivo-Bold.svg#Archivo-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo';
+    src: url('../fonts/Archivo-Medium.eot');
+    src: url('../fonts/Archivo-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Archivo-Medium.woff2') format('woff2'),
+        url('../fonts/Archivo-Medium.woff') format('woff'),
+        url('../fonts/Archivo-Medium.ttf') format('truetype'),
+        url('../fonts/Archivo-Medium.svg#Archivo-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo';
+    src: url('../fonts/Archivo-Italic.eot');
+    src: url('../fonts/Archivo-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Archivo-Italic.woff2') format('woff2'),
+        url('../fonts/Archivo-Italic.woff') format('woff'),
+        url('../fonts/Archivo-Italic.ttf') format('truetype'),
+        url('../fonts/Archivo-Italic.svg#Archivo-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
