@@ -17,5 +17,12 @@
 	   $(this).next().slideToggle();
 	}
 	});
+	
+	$('.hire-btn').click(function() {
+     $('.hire-popup').addClass('active');
+  });
+	$('.popup-close').click(function() {
+     $('.hire-popup').removeClass('active');
+  });
 		
 }(jQuery));
