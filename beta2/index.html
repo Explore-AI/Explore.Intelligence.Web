@@ -296,12 +296,16 @@
           <div>
             <h2>Hire Talent</h2>
             <form action="#">
-              <input type="text" placeholder="First Name" />
-              <input type="text" placeholder="Last Name" />
-              <input type="text" placeholder="Job Title" />
-              <input type="email" placeholder="Work Email" />
-              <input type="number" placeholder="Phone Number" />
-              <select>
+              <input id="firstName" type="text" placeholder="First Name" />
+              <input id="lastName" type="text" placeholder="Last Name" />
+              <input id="jobTitle" type="text" placeholder="Job Title" />
+              <input id="email" type="email" placeholder="Work Email" />
+              <input
+                id="phoneNumber"
+                type="number"
+                placeholder="Phone Number"
+              />
+              <select id="employeeRange">
                 <option value="" disabled selected>Employee Range</option>
                 <option value="0-49">0-49</option>
                 <option value="50-74">50-74</option>
@@ -309,7 +313,7 @@
                 <option value="501-5000">501-5000</option>
                 <option value="5000+">5000+</option>
               </select>
-              <select>
+              <select id="currentRole">
                 <option value="" disabled selected>Your Current Role</option>
                 <option value="Executive (C-suite/VP)">
                   Executive (C-suite/VP)
@@ -317,6 +321,13 @@
                 <option value="Director">Director</option>
                 <option value="Manager/Lead">Manager/Lead</option>
                 <option value="Other">Other</option>
+              </select>
+              <select id="preferredHiring">
+                <option value="" disabled selected>
+                  Preferred Hiring Option
+                </option>
+                <option value="Individual">Individual(s)</option>
+                <option value="Team">Team(s)</option>
               </select>
               <select id="countries" name="countries">
                 <option value="" disabled selected>Country</option>
